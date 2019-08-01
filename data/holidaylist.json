@@ -1,0 +1,88 @@
+{
+   "public":[
+       {
+        "occasion":"May day",
+        "date":"1 May 2019",
+                    "x":"1559327400000",
+                    "day":"Wednesday"
+    },
+    {
+        "occasion":"Independence day",
+        "date":"15 Aug 2019",
+                    "x":"1568485800000",
+                    "day":"Thursday"
+    },
+    {
+        "occasion":"Onam",
+        "date":"11 Sep 2019",
+                    "x":"1570732200000",
+                    "day":"Wednesday"
+    },
+    {
+        "occasion":"Gandhi Jayanti",
+        "date":"02 Oct 2019",
+                    "x":"1572633000000",
+                    "day":"Wednesday"
+    },
+    {
+        "occasion":"Mahanavami / Ayudha Pooje",
+        "date":"07 Oct 2019",
+                    "x":"1573065000000",
+                    "day":"Monday"
+    },
+    {
+        "occasion":"Kannada Rajyotsava",
+        "date":"01 Nov 2019",
+                    "x":"1575138600000",
+                    "day":"Friday"
+    },
+    {
+        "occasion":"Christmas",
+        "date":"25 Dec 2019",
+                    "x":"1579890600000",
+                    "day":"Wednesday"
+    }
+   ],
+   "optional":[
+    {
+        "occasion":"New year day",
+        "date":"01 Jan 2019",
+                    "x":"1548959400000",
+                    "day":"Tuesday"
+    },
+    {
+        "occasion":"Good Friday",
+        "date":"19 Apr 2019",
+                    "x":"1558204200000",
+                    "day":"Friday"
+    },
+    {
+        "occasion":"Bakrid",
+        "date":"12 Aug 2019",
+                    "x":"1568226600000",
+                    "day":"Monday"
+    },
+    {
+        "occasion":"Ganesha Chaturthi",
+        "date":"02 Sept 2019",
+                    "x":"1569954600000",
+                    "day":"Monday"
+    },
+    {
+        "occasion":"Vijayadashami",
+        "date":"08 Oct 2019",
+                    "x":"1573151400000",
+                    "day":"Tuesday"
+    }
+   ],
+   "weekendHoliday":[
+    {
+        "occasion":"Republic Day",
+        "date":"26 Jan 2019",
+                    "x":"1551119400000",
+                    "day":"Saturday"
+    }
+   ]
+}
+
+
